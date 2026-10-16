@@ -1,0 +1,26 @@
+# Archivos de caché compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Carpetas de editores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Entornos virtuales (¡Muy importante!)
+.venv/
+venv/
+env/
+ENV/
+
+# Archivos de datos masivos (HPC / Trazas)
+*.csv
+*.parquet
+*.json
+*.log
